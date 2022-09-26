@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+	  content=''width=device-width, initial-scale=1.
+	  0">
+	  <title>Facebook</title>
+ </head>
+ <style>
+ 
+ *{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ ::-webkit-scrollbar{
+	height: 0px;
+	width: 0px;
+}
+ 
+ img{
+	width: 100vw;
+ }
+ 
+ a {
+ background: blue;;
+ color: white;
+ text-weight: bold;
+ padding: 20px;
+ text-decoration: none;
+ display: block;
+ text-align: center;
+ }
+ 
+ 
+ </style>
+ <body>
+	 	<img src="imagens/tela-facebook.jpg" alt="Facebook">
+		<a href="https://pt-br.facebook.com/gustavoguanabara/" target="_blank">ACESSE</a>
+		 
+</body>
+</html>

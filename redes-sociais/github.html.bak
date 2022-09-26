@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+	  content=''width=device-width, initial-scale=1.
+	  0">
+	  <title>GitHub</title>
+ </head>
+ <style>
+ *{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ img {
+	width: 100vw;
+ }
+ 
+ ::-webkit-scrollbar{
+		height: 0px;
+		width: 0px;
+ }
+ 
+ a {
+	 background-color: green;
+	 color: white;
+	 text-align: center;
+	 text-decoration: none;
+	 padding: 20px;
+	 font-weigth: bold;
+	 display: block;
+ 
+ }
+ 
+ </style>
+ <body>
+	<img src="imagens/tela-github.jpg" alt="Github">
+	<a href="https://github.com/PatrickSantanaaa" target="_blank">ACESSE</a>
+	
+	 	
+		 
+</body>
+</html>
